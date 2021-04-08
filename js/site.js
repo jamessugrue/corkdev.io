@@ -37,7 +37,7 @@ $(function() {
   });
 
   // Youtube
-  var apiKey = 'AIzaSyB3ceb6zzls1m5HWl9WGieHwjQCarYCsGs';
+  var apiKey = 'AIzaSyAzgAEdHyFb_-EAcD2ymP8o0FAT3IbluAY';
   var videosUrl = 'https://www.googleapis.com/youtube/v3/playlistItems?'+
         'part=snippet&maxResults=6&playlistId=PLWPNy8uJbLcvgP__TCrOUDscdFbjJVKo9&key='+apiKey;
 
